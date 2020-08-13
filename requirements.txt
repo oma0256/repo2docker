@@ -1,4 +1,4 @@
-animal-case==1.2.1
+animal-case==0.4.1
 certifi==2020.6.20
 chardet==3.0.4
 decorator==4.4.2
